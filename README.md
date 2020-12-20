@@ -1,3 +1,3 @@
 # Computer-Vision
 
-This is the course projects for Computer Vision at Georgia Tech
+These are the course projects for Computer Vision at Georgia Tech
